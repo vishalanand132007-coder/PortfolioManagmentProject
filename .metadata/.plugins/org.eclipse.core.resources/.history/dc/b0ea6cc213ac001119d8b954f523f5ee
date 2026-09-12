@@ -1,0 +1,21 @@
+package com.portfolio.app.app;
+import com.portfolioproject.model.*;
+public class Main {
+
+	public static void main(String[] args) {
+		{
+			System.out.println("============================");
+		    System.out.println("portfolio Mangement Project");
+	        System.out.println(==============================");
+		    user user=new User("101" ,"vishal" ,"vishal@gmail.com");
+	        System.out.println("user ID: " + user.getuserid());
+	        System.out.println("Name: " + user.getName());
+	        System.out.println("Email: " + user.getEmail());
+	        
+		}
+		
+	}
+
+	}
+
+
