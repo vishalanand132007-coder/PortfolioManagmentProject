@@ -136,3 +136,73 @@
 2026-09-12 05:19:03.103: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-12 05:19:03.103: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-12 05:19:10.515: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 05:44:08.910: [INFO] CurrentProfilePath: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 05:44:08.910: [INFO] Profiles total count: 1
+2026-09-12 05:44:08.910: [INFO] Profile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T04:28:34.344Z
+2026-09-12 05:44:08.910: [INFO] LastUsedProfileDir: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 05:44:08.910: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T04:28:34.344Z
+2026-09-12 05:44:08.910: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 05:44:08.910: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 05:44:08.910: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 05:44:08.910: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 06:26:29.796: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 06:26:42.211: [INFO] CurrentProfilePath: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 06:26:42.211: [INFO] Profiles total count: 1
+2026-09-12 06:26:42.211: [INFO] Profile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T04:28:34.344Z
+2026-09-12 06:26:42.211: [INFO] LastUsedProfileDir: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 06:26:42.211: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T04:28:34.344Z
+2026-09-12 06:26:42.211: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 06:26:42.211: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 06:26:42.211: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 06:26:42.211: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 06:28:04.897: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 05:39:06.021: [INFO] CurrentProfilePath: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 05:39:06.021: [INFO] Profiles total count: 1
+2026-09-13 05:39:06.021: [INFO] Profile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T04:28:34.344Z
+2026-09-13 05:39:06.021: [INFO] LastUsedProfileDir: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 05:39:06.021: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T04:28:34.344Z
+2026-09-13 05:39:06.021: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 05:39:06.021: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 05:39:06.021: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 05:39:06.021: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 05:39:10.648: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 05:42:20.781: [INFO] CurrentProfilePath: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 05:42:20.781: [INFO] Profiles total count: 1
+2026-09-13 05:42:20.781: [INFO] Profile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T05:39:10.097Z
+2026-09-13 05:42:20.781: [INFO] LastUsedProfileDir: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 05:42:20.781: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T05:39:10.097Z
+2026-09-13 05:42:20.781: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 05:42:20.781: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 05:42:20.781: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 05:42:20.781: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:16:54.601: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:17:28.773: [INFO] CurrentProfilePath: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 06:17:28.773: [INFO] Profiles total count: 1
+2026-09-13 06:17:28.773: [INFO] Profile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T05:39:10.097Z
+2026-09-13 06:17:28.773: [INFO] LastUsedProfileDir: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 06:17:28.773: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T05:39:10.097Z
+2026-09-13 06:17:28.773: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 06:17:28.773: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 06:17:28.773: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 06:17:28.773: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 06:24:12.941: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 08:28:57.798: [INFO] CurrentProfilePath: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 08:28:57.798: [INFO] Profiles total count: 1
+2026-09-15 08:28:57.798: [INFO] Profile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-15T08:27:56.186Z
+2026-09-15 08:28:57.798: [INFO] LastUsedProfileDir: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 08:28:57.798: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-15T08:27:56.186Z
+2026-09-15 08:28:57.798: [INFO] OnDoneLoading sync enabled: 0
+2026-09-15 08:28:57.798: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-15 08:28:57.798: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-15 08:28:57.798: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 08:29:04.773: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 09:47:11.415: [INFO] CurrentProfilePath: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 09:47:11.416: [INFO] Profiles total count: 1
+2026-09-15 09:47:11.416: [INFO] Profile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-15T08:29:01.342Z
+2026-09-15 09:47:11.416: [INFO] LastUsedProfileDir: C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 09:47:11.416: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\visha\eclipse-workspace\mavan project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-15T08:29:01.342Z
+2026-09-15 09:47:11.416: [INFO] OnDoneLoading sync enabled: 0
+2026-09-15 09:47:11.416: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-15 09:47:11.416: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-15 09:47:11.416: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 14:16:48.485: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
