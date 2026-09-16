@@ -1,6 +1,5 @@
-
 package com.portfolio.app.app;
-
+import com.portfolio.app.model.*;
 import java.util.Scanner;
 
 import com.portfolio.app.model.*;
