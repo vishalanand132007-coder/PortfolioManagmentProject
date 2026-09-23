@@ -25,7 +25,7 @@ public class Stock extends Asset{
     // Getter
     public double getCurrentPrice() {
         return currentPrice;
-    }
+}
 
     // Setter
     public void setCurrentPrice(double currentPrice) {
